@@ -57,3 +57,11 @@ body {
 .match .front {
   background: #6589F9 !important;
 }
+
+.loading-screen {
+  justify-items: center;
+  text-align: center;
+  font-size: 32px;
+  font-family: unset;
+  font-weight: 600;
+}
